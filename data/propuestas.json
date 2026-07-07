@@ -1,16 +1,80 @@
 [
-    {
-      "id": 1,
-      "titulo": "Canal de información verificada",
-      "mensaje": "Crear un canal comunitario para publicar avisos con fuente, fecha y responsable.",
-      "categoria": "prevencion-desinformacion",
-      "audiencia": "comunidad general",
-      "tono": "informativo",
-      "llamadoAccion": "Consultar únicamente los avisos publicados por canales verificados.",
-      "autor": "Equipo comunitario",
-      "estado": "recibida",
-      "revisionEditorial": "pendiente",
-      "fecha": "2026-04-26T00:00:00.000Z"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "titulo": "Canal de información verificada",
+    "mensaje": "Crear un canal comunitario para publicar avisos con fuente, fecha y responsable.",
+    "categoria": "prevencion-desinformacion",
+    "audiencia": "comunidad general",
+    "tono": "informativo",
+    "llamadoAccion": "Consultar únicamente los avisos publicados por canales verificados.",
+    "autor": "Equipo comunitario",
+    "estado": "recibida",
+    "revisionEditorial": "pendiente",
+    "fecha": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "titulo": "Avisos claros para la comunidad",
+    "mensaje": "Publicar avisos semanales con fuente, fecha y lenguaje claro para prevenir rumores.",
+    "categoria": "participacion-ciudadana",
+    "audiencia": "hola",
+    "tono": "informativo",
+    "llamadoAccion": "Consulta la información oficial antes de compartir mensajes en grupos comunitarios.",
+    "autor": "maiker",
+    "estado": "recibida",
+    "revisionEditorial": "pendiente",
+    "fecha": "2026-07-07T02:44:46.641Z"
+  },
+  {
+    "id": 3,
+    "titulo": "Avisos claros para la comunidad",
+    "mensaje": "Publicar avisos semanales con fuente, fecha y lenguaje claro para prevenir rumores.",
+    "categoria": "participacion-ciudadana",
+    "audiencia": "hola",
+    "tono": "informativo",
+    "llamadoAccion": "Consulta la información oficial antes de compartir mensajes en grupos comunitarios.",
+    "autor": "maiker",
+    "estado": "recibida",
+    "revisionEditorial": "pendiente",
+    "fecha": "2026-07-07T02:45:34.019Z"
+  },
+  {
+    "id": 4,
+    "titulo": "Avisos claros para la comunidad",
+    "mensaje": "Publicar avisos semanales con fuente, fecha y lenguaje claro para prevenir rumores.",
+    "categoria": "prevencion-desinformacion",
+    "audiencia": "comunidad general",
+    "tono": "informativo",
+    "llamadoAccion": "Consulta la información oficial antes de compartir mensajes en grupos comunitarios.",
+    "autor": "Grupo juvenil comunitario",
+    "estado": "recibida",
+    "revisionEditorial": "pendiente",
+    "fecha": "2026-07-07T03:05:38.344Z"
+  },
+  {
+    "id": 5,
+    "titulo": "Avisos claros para la comunidad",
+    "mensaje": "Publicar avisos semanales con fuente, fecha y lenguaje claro para prevenir rumores.",
+    "categoria": "prevencion-desinformacion",
+    "audiencia": "comunidad general",
+    "tono": "informativo",
+    "llamadoAccion": "Consulta la información oficial antes de compartir mensajes en grupos comunitarios.",
+    "autor": "Grupo juvenil comunitario",
+    "estado": "recibida",
+    "revisionEditorial": "pendiente",
+    "fecha": "2026-07-07T03:05:39.271Z"
+  },
+  {
+    "id": 6,
+    "titulo": "lo que quiera",
+    "mensaje": "holaaaaaaaaaaa",
+    "categoria": "convivencia-digital",
+    "audiencia": "comunidad general",
+    "tono": "preventivo",
+    "llamadoAccion": "no puede ser",
+    "autor": "jovenes",
+    "estado": "recibida",
+    "revisionEditorial": "pendiente",
+    "fecha": "2026-07-07T03:06:57.756Z"
+  }
+]

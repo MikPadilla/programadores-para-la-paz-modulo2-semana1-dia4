@@ -12,6 +12,8 @@ const btnCargar = document.getElementById("btnCargar")
 const respuestaEnvio = document.getElementById("respuestaEnvio")
 const contenedorPropuestas = document.getElementById("contenedorPropuestas")
 
+alert("Hola muchachos")
+
 btnEnviar.addEventListener("click", async () => {
   const nuevaPropuesta = {
     titulo: titulo.value,
